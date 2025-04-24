@@ -12,8 +12,5 @@ Welcome to my GitHub profile! I'm a passionate Junior Frontend Developer eager t
 - Building responsive web applications with React
 - Improving my skills in CSS animations and state management
 
-## 📫 Get in Touch
-- **Email**: ftshn84@gmail.com
-
 ## ⚡ Fun Fact
 When I'm not coding, you can find me sketching UI designs or binge-watching sci-fi series!

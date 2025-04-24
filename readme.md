@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Junior Frontend Developer eager t
 
 ## 📫 Get in Touch
 - **Email**: ftshn84@gmail.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
 ## ⚡ Fun Fact
 When I'm not coding, you can find me sketching UI designs or binge-watching sci-fi series!

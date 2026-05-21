@@ -1,4 +1,6 @@
+
 # Hi, I'm Fatima Sharifi 👋
+📄 [Download PDF version](https://github.com/ftshn84/ftshn84/raw/main/Fatima_Sharifi_GitHub_Profile.pdf)
 ### Backend Developer · Copenhagen, Denmark
 
 I'm a backend-focused developer with hands-on frontend experience, building real-world applications across startup and scale-up environments. I care deeply about clean code, AI-powered products, and learning through shipping things that actually matter.

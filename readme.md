@@ -1,85 +1,88 @@
 # Hi, I'm Fatima Sharifi 👋
+### Backend Developer · Copenhagen, Denmark
 
-**Software Engineer · Copenhagen, Denmark**
+I'm a backend-focused developer with hands-on frontend experience, building real-world applications across startup and scale-up environments. I care deeply about clean code, AI-powered products, and learning through shipping things that actually matter.
 
-Full-stack developer with a background spanning 3D visualization, Unity development, and modern web engineering. I bring a designer's eye and an engineer's mindset to building clean, engaging user experiences.
-
----
-
-## 🛠️ What I Do
-
-I build responsive, user-friendly web applications — from frontend interfaces to backend APIs — and I care deeply about code quality, thoughtful UX, and shipping things that actually work.
-
-Currently deepening my full-stack skills through the [HackYourFuture](https://www.hackyourfuture.net/) program (graduating July 2026), while working as a Software Engineer at **SDR Style** in Copenhagen.
+Currently levelling up through [HackYourFuture](https://www.hackyourfuture.net/)'s intensive backend programme while working as a Software Engineer at SDR Style.
 
 ---
 
-## 💼 Experience Highlights
+## 🛠️ Tech Stack
 
-**Software Engineer — SDR Style** *(Feb 2024 – Present)*
-Building responsive, user-friendly interfaces with C#, JavaScript, and AI integrations. Improved system performance by 30%.
+**Backend**
+`Node.js` `Express` `Python` `C#` `.NET Core` `Java` `SQL`
 
-**Web & Visualization Developer — COBOD International** *(Sep 2021 – Dec 2023)*
-Developed a web-based configurator that increased user engagement by 60%. Integrated Unity and Unreal Engine into the visualization pipeline, boosting visual content quality by 90%. Delivered 6+ industrial animations for internal and external clients.
-
-**Unity Developer & 3D Generalist — Purple Scout** *(Jan 2020 – Jul 2021)*
-Built and shipped 3D modules for client Veltuff at a Copenhagen startup, working across C#, .NET Core, SQL, and Unity.
-
-**3D Developer — Memorix** *(Jan 2019 – Nov 2019)*
-Created low-polygon AR environments for an educational web app using visual memorization techniques.
-
-**3D Visualization Specialist — Chakad 3D Studio, Iran** *(2007 – 2015)*
-8 years of architectural 3D visualization supporting spatial planning and design validation.
-
----
-
-## 🧰 Tech Stack
-
-**Frontend**
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Vue` `Figma` `Vite`
-
-**Backend & Systems**
-`Node.js` `C#` `.NET Core` `Python` `Java` `SQL`
+**Frontend** *(hands-on experience)*
+`JavaScript` `TypeScript` `React` `Vue` `HTML` `CSS`
 
 **Tools & Workflow**
-`Git` `GitHub` `Jira` `Scrum/Agile` `Visual Studio`
+`Git` `GitHub` `Figma` `Vite` `Jira` `Agile/Scrum`
 
-**3D & Creative**
-`Unity` `Unreal Engine` `3ds Max` `AutoCAD` `Photoshop` `Substance Painter`
+**3D & Visualization** *(professional background)*
+`Unity` `Unreal Engine` `3ds Max` `AutoCAD` `C#`
+
+---
+
+## 💼 Experience
+
+**Software Engineer — SDR Style** · *Feb 2024 – Present · Copenhagen*
+Building responsive, performant interfaces and backend integrations with C#, JavaScript, and AI tooling. Improved system performance by 30%.
+
+**Software Developer — COBOD International A/S** · *Sep 2021 – Dec 2023 · Copenhagen*
+Developed a web-based application that increased user engagement by 60%. Integrated Unity and Unreal Engine into COBOD's visualization pipeline, raising visual content quality by 90%. Delivered 6+ industrial animations for internal and external clients.
+
+**Unity Developer & 3D Generalist — Purple Scout** · *Jan 2020 – Jul 2021 · Copenhagen*
+Built and deployed modular 3D content for client Veltuff at an early-stage startup. Stack: C#, Git, SQL, .NET Core, Unity.
+
+**Unity Developer — Memorix** · *Jan 2019 – Nov 2019 · Copenhagen*
+Created low-polygon 3D environments for an AR/web learning app focused on visual memorisation techniques.
+
+**3D Visualisation Specialist — Chakad 3D Studio** · *Feb 2007 – Jan 2015 · Isfahan, Iran*
+Delivered architectural visualisation and spatial simulation to validate designs before construction.
 
 ---
 
 ## 🎓 Education & Training
 
-| Program | Institution | Period |
-|---|---|---|
-| Full-Stack Web Development | HackYourFuture (HYF) | Mar 2025 – Jul 2026 |
-| Systemudvikling (Software Development) | KEA Copenhagen | Mar – Jul 2025 |
-| Bachelor of Arts – Visual Communication & Design | University of Applied Science & Technology, Iran | 2012 – 2015 |
-| Associate of Science – Software Engineering | University of Applied Science & Technology, Iran | 2004 – 2007 |
+**Backend Web Development — HackYourFuture (HYF)** · *Oct 2025 – Jul 2026 (expected)*
+9-month intensive programme. Backend focus: Node.js, Express, SQL. Frontend foundations: HTML, CSS, JavaScript ES6, React. Version control and team workflow: Git, GitHub, Agile/Scrum.
+
+**Systemudvikling — KEA Copenhagen** · *Mar 2025 – Jul 2025*
+Software development fundamentals: system design, programming, introductory AI and machine learning, Jira, building small-scale applications.
+
+**Bachelor of Arts — University of Applied Science and Technology, Iran** · *2012 – 2015*
+Visual communication and design: branding, UI/UX fundamentals, typography, interactive design.
+
+**Associate of Science, Software Engineering — University of Applied Science and Technology, Iran** · *2004 – 2007*
+Programming fundamentals, OOP, UML modelling, design patterns, system design. Improved system efficiency by 30% through optimised code structure.
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [**COBOD Configurator**](https://www.cobod.com) | Web + desktop + mobile app letting customers build and configure 3D construction printers |
-| [**Memorix**](https://memorixideas.com) | AR/web app for students using visual memorization |
-| [**Game Hub**](https://game-hub-gold-mu-91.vercel.app/) | Personal frontend project — a responsive game discovery app |
+> *I'm actively building this section — add your backend repositories here as you go!*
+
+| Project | Description | Stack |
+|---|---|---|
+| **COBOD Configurator** | Web + mobile app for configuring 3D construction printers. Available on desktop, iOS and Android. | Unity, C#, Web |
+| **Memorix AR Learning App** | 3D AR/web application for visual memorisation in education. | Unity, C#, .NET Core |
+| **Game Hub** | Personal frontend project — a game discovery interface. | React, JavaScript |
+| *Your repo here* | *(Add your backend projects as you build them!)* | |
+
+🔗 [COBOD Projects](https://www.cobod.com) · [Memorix](https://memorix.io) · [Game Hub](https://game-hub-gold-mu-91.vercel.app/)
 
 ---
 
 ## 🌍 Languages
 
-- **Persian** — Native
-- **English** — Advanced
-- **Danish** — Upper Intermediate
+🇮🇷 Persian — Native · 🇬🇧 English — Advanced · 🇩🇰 Danish — Upper Intermediate
 
 ---
 
-## 📫 Get in Touch
+## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh3d/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/fatemeh3d)
-[![Email](https://img.shields.io/badge/Email-ftshn84@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ftshn84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatemeh3d-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fatemeh3d/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ArtStation-blue?style=flat)](https://www.artstation.com/fatemeh3d)
+[![Email](https://img.shields.io/badge/Email-ftshn84@gmail.com-D14836?style=flat&logo=gmail)](mailto:ftshn84@gmail.com)
+📞 +45 42 21 05 23
+

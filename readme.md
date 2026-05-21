@@ -59,10 +59,6 @@ Programming fundamentals, OOP, UML modelling, design patterns, system design. Im
 
 ---
 
-## 🚀 Projects
-
-> *I'm actively building this section — add your backend repositories here as you go!*
-
 | Project | Description | Stack |
 |---|---|---|
 | **COBOD Configurator** | Web + mobile app for configuring 3D construction printers. Available on desktop, iOS and Android. | Unity, C#, Web |

@@ -1,4 +1,4 @@
-📄 [Download PDF version](https://github.com/ftshn84/ftshn84/raw/main/Fatima_Sharifi_GitHub_Profile.pdf)
+📄 [Download PDF version](https://github.com/ftshn84/ftshn84/blob/main/Fatima_Sharifi_GitHub_Profile.pdf.pdf)
 # Hi, I'm Fatima Sharifi 👋
 ### Backend Developer · Copenhagen, Denmark
 

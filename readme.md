@@ -85,7 +85,7 @@ Location     →  Copenhagen, Denmark
 - Built and shipped modular 3D content for client Veltuff at an early-stage startup
 - Stack: C#, .NET Core, Unity, SQL, Git
 
-**Unity Developer — [Memorix](https://memorix.io)** &nbsp;·&nbsp; *Jan 2019 – Nov 2019 · Copenhagen*
+**Unity Developer — [Memorix](https://www.artstation.com/artwork/w0BOmO)** &nbsp;·&nbsp; *Jan 2019 – Nov 2019 · Copenhagen*
 
 - Designed low-polygon 3D environments for an AR/web learning app focused on visual memorisation
 

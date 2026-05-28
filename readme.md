@@ -1,8 +1,9 @@
-<div align="center"
-  <img src="https://github.com/ftshn84/ftshn84/blob/fatima.png?raw=true" 
-     width="120" 
-     style="border-radius: 50%;" 
-     alt="Fatima Sharifi" />>
+<table>
+<tr>
+<td width="140">
+<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="120" alt="Fatima Sharifi" style="border-radius:50%;" />
+</td>
+<td>
 
 # Fatima Sharifi
 ### Backend Developer · Copenhagen, Denmark
@@ -12,8 +13,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fatemeh3d-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh3d/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/fatemeh3d)
 [![Email](https://img.shields.io/badge/Email-ftshn84%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ftshn84@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/ftshn84/ftshn84/raw/main/Fatima_Sharifi_CV.pdf)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 

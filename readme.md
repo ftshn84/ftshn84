@@ -1,6 +1,6 @@
 <div align="left">
 <img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="200" align="left" alt="Fatima Sharifi" />
-<p><strong><font size="10">Fatima Sharifi</font></bold><br/>
+<p><strong><font size="10">Fatima Sharifi</font></strong><br/><br/>
 <font size="6">Backend Developer · Copenhagen, Denmark</font></p>
 
 *Building real-world applications where clean code meets thoughtful engineering.*

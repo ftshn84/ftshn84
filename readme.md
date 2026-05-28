@@ -4,7 +4,7 @@
 <font size="6">Backend Developer · Copenhagen, Denmark</font></p>
 
 *Building real-world applications where clean code meets thoughtful engineering.*
-<br />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fatemeh3d-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh3d/)
 [![ArtStation](https://img.shields.io/badge/Portfolio-ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/fatemeh3d)
 [![Email](https://img.shields.io/badge/Email-ftshn84%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ftshn84@gmail.com)

@@ -14,8 +14,6 @@
 
 <br clear="left" />
 
----
-
 ## About Me
 
 Backend-focused developer with hands-on frontend experience, building production applications across startup and scale-up environments. I care about clean architecture, well-structured APIs, and shipping products that solve real problems.

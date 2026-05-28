@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="140">
-<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="120" alt="Fatima Sharifi" style="border-radius:50%;" />
+<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="120" alt="Fatima Sharifi" ;" />
 </td>
 <td>
 

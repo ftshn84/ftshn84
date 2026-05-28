@@ -101,7 +101,7 @@ Location     →  Copenhagen, Denmark
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **COBOD Configurator** | Web + mobile app for configuring industrial 3D construction printers. Ships on desktop, iOS, and Android. | Unity · C# · Web | [cobod.com ↗](https://www.cobod.com) |
-| **Memorix AR Learning App** | AR/web application for visual memorisation in education. | Unity · C# · .NET Core | [memorix.io ↗](https://memorix.io) |
+| **Memorix AR Learning App** | AR/web application for visual memorisation in education. | Unity · C# · .NET Core | [memorix.io ↗](https://www.artstation.com/artwork/w0BOmO) |
 | **Game Hub** | Frontend game discovery interface — browse, search, and explore games. | React · JavaScript | [Live Demo ↗](https://game-hub-gold-mu-91.vercel.app/) |
 | **Personal Website** | Portfolio site built from scratch. | HTML · CSS · JS | [GitHub ↗](https://github.com/ftshn84/MyWebsite) |
 

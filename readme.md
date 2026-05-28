@@ -1,9 +1,11 @@
-<table>
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="140">
-<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="120" alt="Fatima Sharifi" ;" />
+<td width="160" valign="middle">
+<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="140" alt="Fatima Sharifi" style="border-radius:50%;" />
 </td>
-<td>
+<td valign="middle" align="left" style="padding-left: 20px;">
 
 # Fatima Sharifi
 ### Backend Developer · Copenhagen, Denmark
@@ -11,29 +13,33 @@
 *Building real-world applications where clean code meets thoughtful engineering.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fatemeh3d-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemeh3d/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/fatemeh3d)
+[![ArtStation](https://img.shields.io/badge/Portfolio-ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/fatemeh3d)
 [![Email](https://img.shields.io/badge/Email-ftshn84%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ftshn84@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/ftshn84/ftshn84/raw/main/Fatima_Sharifi_CV.pdf)
+[![Download CV](https://img.shields.io/badge/⬇︎_Download_CV-PDF-2ea44f?style=flat-square)](https://github.com/ftshn84/ftshn84/raw/main/Fatima_Sharifi_CV.pdf)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a backend-focused developer with hands-on frontend experience, building real-world applications across startup and scale-up environments. I care about clean architecture, AI-powered products, and shipping things that actually matter.
+Backend-focused developer with hands-on frontend experience, building production-grade applications across startup and scale-up environments. I care about clean architecture, maintainable APIs, and AI-powered products.
 
 Currently completing [HackYourFuture](https://www.hackyourfuture.net/)'s intensive 9-month backend programme while working as a Software Engineer at SDR Style in Copenhagen.
 
-- **7+ years** of professional software and 3D development experience
-- Background spanning **enterprise software**, **AR/VR**, and **architectural visualisation**
-- Native Persian · Advanced English · Upper-Intermediate Danish
+```text
+Focus areas  →  REST APIs · Backend Systems · 3D/Realtime Apps · AI Tooling
+Experience   →  7+ years across enterprise software, AR/VR, and visualisation
+Languages    →  Persian (native) · English (advanced) · Danish (upper-intermediate)
+```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Backend**
 
@@ -50,14 +56,15 @@ Currently completing [HackYourFuture](https://www.hackyourfuture.net/)'s intensi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**3D & Visualisation**
+**3D & Realtime**
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
 **Tools & Workflow**
 
@@ -65,63 +72,66 @@ Currently completing [HackYourFuture](https://www.hackyourfuture.net/)'s intensi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-009FDA?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-009FDA?style=flat-square&logoColor=white)
 
 ---
 
-## Experience
+## 💼 Experience
 
-**Software Engineer — SDR Style** · *Feb 2024 – Present · Copenhagen*
+**🔹 Software Engineer — [SDR Style](https://www.sdrstyle.com)** &nbsp;`Feb 2024 – Present` &nbsp;· Copenhagen
 - Building responsive, performant interfaces and backend integrations using C#, JavaScript, and AI tooling
-- Improved system performance by **30%**
+- Delivered measurable system performance improvement of **30%**
 
-**Software Developer — COBOD International A/S** · *Sep 2021 – Dec 2023 · Copenhagen*
-- Developed a web-based application that increased user engagement by **60%**
-- Integrated Unity and Unreal Engine into COBOD's visualisation pipeline, raising visual content quality by **90%**
-- Delivered 6+ industrial animations for internal and external clients
+**🔹 Software Developer — [COBOD International A/S](https://www.cobod.com)** &nbsp;`Sep 2021 – Dec 2023` &nbsp;· Copenhagen
+- Developed a cross-platform web application that increased user engagement by **60%**
+- Integrated Unity and Unreal Engine into the visualisation pipeline, raising content quality by **90%**
+- Delivered 6+ industrial animations for internal and external stakeholders
 
-**Unity Developer & 3D Generalist — Purple Scout** · *Jan 2020 – Jul 2021 · Copenhagen*
-- Built and deployed modular 3D content for client Veltuff at an early-stage startup
-- Stack: C#, Git, SQL, .NET Core, Unity
+**🔹 Unity Developer & 3D Generalist — Purple Scout** &nbsp;`Jan 2020 – Jul 2021` &nbsp;· Copenhagen
+- Built and shipped modular 3D content for client Veltuff at an early-stage startup
+- Stack: C#, .NET Core, Unity, SQL, Git
 
-**Unity Developer — Memorix** · *Jan 2019 – Nov 2019 · Copenhagen*
-- Created low-polygon 3D environments for an AR/web learning application focused on visual memorisation
+**🔹 Unity Developer — [Memorix](https://memorix.io)** &nbsp;`Jan 2019 – Nov 2019` &nbsp;· Copenhagen
+- Designed low-polygon 3D environments for an AR/web learning app focused on visual memorisation techniques
 
-**3D Visualisation Specialist — Chakad 3D Studio** · *Feb 2007 – Jan 2015 · Isfahan, Iran*
-- Delivered architectural visualisation and spatial simulation to validate designs before construction
+**🔹 3D Visualisation Specialist — Chakad 3D Studio** &nbsp;`Feb 2007 – Jan 2015` &nbsp;· Isfahan, Iran
+- Delivered architectural visualisation and spatial simulation to validate designs pre-construction
+- Tools: 3ds Max, AutoCAD, V-Ray
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **COBOD Configurator** | Web and mobile app for configuring 3D construction printers. Available on desktop, iOS, and Android. | Unity · C# · Web | [cobod.com](https://www.cobod.com) |
-| **Memorix AR Learning App** | 3D AR/web application for visual memorisation in education. | Unity · C# · .NET Core | [memorix.io](https://memorix.io) |
-| **Game Hub** | Personal frontend project — a game discovery interface. | React · JavaScript | [Live Demo](https://game-hub-gold-mu-91.vercel.app/) |
-| **Personal Website** | Portfolio website. | HTML · CSS · JS | [GitHub](https://github.com/ftshn84/MyWebsite) |
+| **COBOD Configurator** | Web + mobile app for configuring industrial 3D construction printers. Ships on desktop, iOS, and Android. | Unity · C# · Web | [cobod.com](https://www.cobod.com) |
+| **Memorix AR Learning App** | AR/web application for visual memorisation in education contexts. | Unity · C# · .NET Core | [memorix.io](https://memorix.io) |
+| **Game Hub** | Frontend game discovery interface — browse, search, and explore games. | React · JavaScript | [Live ↗](https://game-hub-gold-mu-91.vercel.app/) |
+| **Personal Website** | Portfolio site built from scratch. | HTML · CSS · JS | [GitHub ↗](https://github.com/ftshn84/MyWebsite) |
 
 ---
 
-## Education
+## 🎓 Education
 
-**Backend Web Development — HackYourFuture (HYF)** · *Oct 2025 – Jul 2026 (expected)*
-9-month intensive programme covering Node.js, Express, SQL, React, and Agile/Scrum workflows.
+**Backend Web Development — HackYourFuture (HYF)** &nbsp;`Oct 2025 – Jul 2026`
+> 9-month intensive programme · Node.js · Express · SQL · React · Git · Agile/Scrum
 
-**Systemudvikling — KEA Copenhagen School of Design and Technology** · *Mar 2025 – Jul 2025*
-Software development fundamentals: system design, programming, introductory AI and machine learning.
+**Systemudvikling — KEA Copenhagen School of Design and Technology** &nbsp;`Mar – Jul 2025`
+> System design · Programming fundamentals · Introductory AI & ML · Jira
 
-**BA, Visual Communication — University of Applied Science and Technology, Iran** · *2012 – 2015*
-Branding, UI/UX fundamentals, typography, and interactive design.
+**BA, Visual Communication — University of Applied Science and Technology, Iran** &nbsp;`2012 – 2015`
+> UI/UX fundamentals · Branding · Typography · Interactive design
 
-**AS, Software Engineering — University of Applied Science and Technology, Iran** · *2004 – 2007*
-OOP, UML modelling, design patterns, and system design. Improved system efficiency by 30% through optimised code structure.
+**AS, Software Engineering — University of Applied Science and Technology, Iran** &nbsp;`2004 – 2007`
+> OOP · UML modelling · Design patterns · System design
 
 ---
 
 <div align="center">
 
-*Open to backend roles, collaborations, and interesting problems.*
-**ftshn84@gmail.com · +45 42 21 05 23**
+*Open to backend roles, technical collaborations, and interesting engineering challenges.*
+
+📧 ftshn84@gmail.com &nbsp;·&nbsp; 📞 +45 42 21 05 23 &nbsp;·&nbsp; 📍 Copenhagen, Denmark
 
 </div>

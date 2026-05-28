@@ -11,7 +11,7 @@
 [![Download CV](https://img.shields.io/badge/⬇_Download_CV-PDF-2ea44f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/ftshn84/ftshn84/raw/main/Fatima_Sharifi_CV.pdf)
 </div>
 
-<br clear="left" />
+<br />
 
 ## About Me
 

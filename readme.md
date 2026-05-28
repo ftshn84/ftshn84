@@ -74,7 +74,7 @@ Location     →  Copenhagen, Denmark
 - Building responsive interfaces and backend integrations using C#, JavaScript, and AI tooling
 - Improved system performance by **30%**
 
-**Software Developer — [COBOD International A/S](https://www.cobod.com)** &nbsp;·&nbsp; *Sep 2021 – Dec 2023 · Copenhagen*
+**Software Developer — [COBOD International A/S](https://cobod.com/3d-construction-print-configurator/)** &nbsp;·&nbsp; *Sep 2021 – Dec 2023 · Copenhagen*
 
 - Developed a cross-platform web application that increased user engagement by **60%**
 - Integrated Unity and Unreal Engine into the visualisation pipeline, raising content quality by **90%**

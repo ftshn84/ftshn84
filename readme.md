@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="100" align="left" alt="Fatima Sharifi" />
+<img src="https://github.com/ftshn84/ftshn84/blob/main/fatima.png?raw=true" width="200" align="left" alt="Fatima Sharifi" />
 
 # Fatima Sharifi
 ### Backend Developer · Copenhagen, Denmark

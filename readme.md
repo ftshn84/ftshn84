@@ -1,4 +1,8 @@
-<div align="center">
+<div align="center"
+  <img src="https://github.com/ftshn84/ftshn84/blob/fatima.png?raw=true" 
+     width="120" 
+     style="border-radius: 50%;" 
+     alt="Fatima Sharifi" />>
 
 # Fatima Sharifi
 ### Backend Developer · Copenhagen, Denmark
